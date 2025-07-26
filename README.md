@@ -7,19 +7,20 @@ The game challenges users to guess a randomly generated number with limited atte
 
 ⚙️ Features:
 
--Multi-round gameplay : Play up to 3 rounds with the option to continue or exit after each round.
+🔹Multi-round gameplay : Play up to 3 rounds with the option to continue or exit after each round.
 
--Limited attempts per round : Players have 5 chances to guess the correct number.
+🔹Limited attempts per round : Players have 5 chances to guess the correct number.
 
--Dynamic scoring system : Earn points for correct guesses and track cumulative score across rounds.
+🔹Dynamic scoring system : Earn points for correct guesses and track cumulative score across rounds.
 
--User-friendly feedback : Console hints guide players (“Too high” / “Too low”) and display final results with personalized messages based on total score.
+🔹User-friendly feedback : Console hints guide players (“Too high” / “Too low”) and display final results with personalized messages based on total score.
 
--Simple console interface : Clean and interactive text-based UI for quick play.
+🔹Simple console interface : Clean and interactive text-based UI for quick play.
 
 💻 Technologies Used:
--Java Programming Language
 
--Random Number Generation (java.util.Random)
+🔹Java Programming Language
 
--User Input Handling (java.util.Scanner)
+🔹Random Number Generation (java.util.Random)
+
+🔹User Input Handling (java.util.Scanner)
